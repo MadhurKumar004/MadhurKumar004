@@ -22,20 +22,12 @@
 </ul>
 
 <h2 align="left">System Stack Perspective</h2>
+<p align="left">
+  This represents the layers I aim to understand and work across, with particular emphasis on
+  the interfaces and boundaries between them.
+</p>
 <pre>
-Hardware
-  ↓
-Kernel
-  ↓
-Device Drivers
-  ↓
-System Call Interface
-  ↓
-Compiler Toolchain
-  ↓
-Runtimes & Libraries
-  ↓
-Applications
+  Hardware → Kernel → Drivers → Compiler Toolchain → Runtimes → Applications
 </pre>
 
 <h2 align="left">Tools & Environment</h2>
