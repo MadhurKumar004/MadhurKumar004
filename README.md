@@ -38,6 +38,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
 </div>
 
+<h2 align="left">Contact</h2>
+<p align="left">
+  <a href="https://linkedin.com/in/madhur-kumar-6b55a52a1">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:madhurkumar004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+
 <h2 align="left">Notes</h2>
 <p align="left">
   This profile reflects ongoing learning and experimentation in low-level software systems.
