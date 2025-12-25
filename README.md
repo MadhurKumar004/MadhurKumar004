@@ -40,7 +40,7 @@
 
 <h2 align="left">Contact</h2>
 <p align="left">
-  <a href="https://linkedin.com/in/madhur-kumar-6b55a52a1">
+  <a href="https://linkedin.com/in/madhurkumar004">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:madhurkumar004@gmail.com">
