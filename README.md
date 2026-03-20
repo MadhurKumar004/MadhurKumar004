@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Madhur</h1>
+<h1 align="left">Hi, I'm Madhur Kumar</h1>
 
 <h4 align="left">
   Engineering student with a strong interest in low-level systems, Linux kernel development,
@@ -16,9 +16,9 @@
 <h2 align="left">Technical Focus</h2>
 <ul align="left">
   <li>Low-level programming: C, x86 Assembly</li>
-  <li>Linux kernel modules, device drivers, and kernel internals</li>
-  <li>Operating system fundamentals and bootloader development</li>
   <li>Compiler design and implementation using LLVM</li>
+  <li>Linux kernel modules, device drivers, and kernel internals</li>
+  <li>Operating system fundamentals</li>
 </ul>
 
 <h2 align="left">System Stack Perspective</h2>
@@ -34,7 +34,8 @@
 <div align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" height="40" alt="Linux" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="40" alt="C" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/llvm/llvm-original.svg" height="45" alt="LLVM" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/llvm/llvm-original.svg" height="45" alt="LLVM" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
 </div>
 
